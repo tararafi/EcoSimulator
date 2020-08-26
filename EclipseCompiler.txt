@@ -1,0 +1,63 @@
+10 Dec 2017 22:31:03 GMT: Log 'EclipseCompiler.txt' opened: 10 Dec 2017 22:31:03 GMT with name C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EclipseCompiler.txt
+10 Dec 2017 22:31:16 GMT: diagnostics = javax.tools.DiagnosticCollector@709b5c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d96da3
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\Animal.java, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java]
+10 Dec 2017 22:31:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1937b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+10 Dec 2017 22:31:17 GMT: Compiler call returned
+10 Dec 2017 22:31:50 GMT: diagnostics = javax.tools.DiagnosticCollector@1fbb22d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1efc1cc
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\Animal.java, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java]
+10 Dec 2017 22:31:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a4fe9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+10 Dec 2017 22:31:50 GMT: Compiler call returned
+10 Dec 2017 22:31:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5104
+10 Dec 2017 22:31:50 GMT:  Kind = ERROR
+10 Dec 2017 22:31:50 GMT: Name = C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java LineNo = 4 ColNo = 7 Msg = 'The type EcoSim is already defined'
+10 Dec 2017 22:32:00 GMT: diagnostics = javax.tools.DiagnosticCollector@da4b21
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3abdaa
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\Animal.java, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java]
+10 Dec 2017 22:32:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d27231' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+10 Dec 2017 22:32:00 GMT: Compiler call returned
+11 Dec 2017 1:18:19 GMT: Log 'EclipseCompiler.txt' opened: 11 Dec 2017 1:18:19 GMT with name C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EclipseCompiler.txt
+11 Dec 2017 1:18:26 GMT: diagnostics = javax.tools.DiagnosticCollector@589587
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b7e9e5
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java]
+11 Dec 2017 1:18:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@147d33f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:18:26 GMT: Compiler call returned
+11 Dec 2017 1:24:52 GMT: diagnostics = javax.tools.DiagnosticCollector@ac9798
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d5dbc0
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java]
+11 Dec 2017 1:24:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@157e821' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:24:52 GMT: Compiler call returned
+11 Dec 2017 1:25:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1e120e2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6dbcb2
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EcoSim.java]
+11 Dec 2017 1:25:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5a643d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:25:48 GMT: Compiler call returned
+11 Dec 2017 1:43:01 GMT: Log 'EclipseCompiler.txt' opened: 11 Dec 2017 1:43:01 GMT with name C:\Users\tarar\Documents\EcoSimulator (1)\EcoSimulator\src\EclipseCompiler.txt
+11 Dec 2017 1:48:13 GMT: Log 'EclipseCompiler.txt' opened: 11 Dec 2017 1:48:13 GMT with name C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EclipseCompiler.txt
+11 Dec 2017 1:53:21 GMT: Log 'EclipseCompiler.txt' opened: 11 Dec 2017 1:53:21 GMT with name C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EclipseCompiler.txt
+11 Dec 2017 1:54:26 GMT: Log 'EclipseCompiler.txt' opened: 11 Dec 2017 1:54:26 GMT with name C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EclipseCompiler.txt
+11 Dec 2017 1:54:31 GMT: diagnostics = javax.tools.DiagnosticCollector@64e97a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18bf2ef
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EcoSim.java]
+11 Dec 2017 1:54:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b82f47' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:54:32 GMT: Compiler call returned
+11 Dec 2017 1:56:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1c4647
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bf222e
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EcoSim.java, C:\Users\tarar\Documents\Eco Simulator\EcoSim.java]
+11 Dec 2017 1:56:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@29ecbe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src;C:\Users\tarar\Documents\Eco Simulator;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:56:05 GMT: Compiler call returned
+11 Dec 2017 1:56:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b85e0a
+11 Dec 2017 1:56:05 GMT:  Kind = ERROR
+11 Dec 2017 1:56:05 GMT: Name = C:\Users\tarar\Documents\Eco Simulator\EcoSim.java LineNo = 11 ColNo = 7 Msg = 'The type EcoSim is already defined'
+11 Dec 2017 1:56:17 GMT: diagnostics = javax.tools.DiagnosticCollector@9f35fb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d02336
+fileObjects = [C:\Users\tarar\Documents\Eco Simulator\EcoSim.java]
+11 Dec 2017 1:56:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2b7c30' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\Eco Simulator;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:56:17 GMT: Compiler call returned
+11 Dec 2017 1:57:27 GMT: Log 'EclipseCompiler.txt' opened: 11 Dec 2017 1:57:27 GMT with name C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EclipseCompiler.txt
+11 Dec 2017 1:57:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1fca31a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@20af57
+fileObjects = [C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src\EcoSim.java]
+11 Dec 2017 1:57:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12a95ba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\tarar\Documents\EcoSimulator\EcoSimulator\src;C:\Users\tarar\Downloads\drjava-beta-20160913-225446 (1).exe]
+11 Dec 2017 1:57:31 GMT: Compiler call returned
